@@ -1,6 +1,6 @@
 package com.javaBasicNew;
 
-public class Main {
+public class Main_01 {
 
     public static void main(String[] args) {
 	// write your code here

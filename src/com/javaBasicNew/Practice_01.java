@@ -9,13 +9,6 @@ public class Practice_01 {
         System.out.println("Enter marks of math:");
         float subject1 = subjects.nextFloat();
 
-        if(subject1 >= 100 ){
-            System.out.println("correct!");
-        } else{
-            subjects.nextLine();
-        }
-
-
         /** subject 2 -  eng */
         System.out.println("Enter marks of eng:");
         float subject2 = subjects.nextFloat();

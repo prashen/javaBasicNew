@@ -1,6 +1,6 @@
 package com.javaBasicNew;
 
-public class DataTypes {
+public class DataTypes_02 {
     public static void main(String[] args) {
         /** Primitive data types */
         byte age = 32; // stores whole numbers from -128 to 127
